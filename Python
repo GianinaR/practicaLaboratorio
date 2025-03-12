@@ -1,0 +1,10 @@
+def suma(a, b):
+    return a + b
+
+# Valores de ejemplo
+num1 = 5
+num2 = 3
+
+resultado = suma(num1, num2)
+
+print(f"La suma de {num1} y {num2} es: {resultado}")
